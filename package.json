@@ -1,0 +1,31 @@
+{
+  "name": "mynodeapp",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.0.x",
+    "mongodb": "^1.4.7"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "description": "The Heroku Boilerplate includes all the files you need to get NodeJS set up on Heroku. The files were created from the Heroku tutorial, \"Getting Started with Node.js on Heroku/Cedar\" http://devcenter.heroku.com/articles/node-js",
+  "main": "web.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nadjib4200/hello-world.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "ninou",
+  "license": "ninou",
+  "bugs": {
+    "url": "https://github.com/nadjib4200/hello-world/issues"
+  },
+  "homepage": "https://github.com/nadjib4200/hello-world"
+}
